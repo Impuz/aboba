@@ -29,3 +29,6 @@ _-----------
     model = "CPPKCS 3";
     lib_linux = "/opt/cprocsp/lib/amd64/libcppkcs11.so";
   }
+
+
+https://chromewebstore.google.com/detail/extension-for-cades-brows/pfhgbfnnjiafkhfdkmpiflachepdcjod?hl=ru&gl=RU%3C%2Fp%3E

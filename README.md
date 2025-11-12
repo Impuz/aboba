@@ -15,3 +15,9 @@ https://chromewebstore.google.com/detail/extension-for-cades-brows/pfhgbfnnjiafk
 https://saby.ru/help/plugin/sbis3plugin/install?block_open=pam?tb=tab2&tb=tab2#module
 -----------
 mkdir -p ~/tarxz && wget -O ~/tarxz/sreda.tar.xz https://dl.armgs.team/downloads/linux/x64/latest/sreda.tar.xz && tar -xf ~/tarxz/sreda.tar.xz -C ~/tarxz && ~/tarxz/sreda
+
+
+
+$bash 1CFilesExtensionChrFFSetupLin64.sh --accept --target ~
+$bash 1CCryptoExtensionChrFFSetupLin64.sh --accept --target ~
+$bash ExtraCryptoAPIChromeSetupLin64.sh --accept --target ~

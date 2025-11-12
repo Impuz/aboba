@@ -21,3 +21,7 @@ mkdir -p ~/tarxz && wget -O ~/tarxz/sreda.tar.xz https://dl.armgs.team/downloads
 $bash 1CFilesExtensionChrFFSetupLin64.sh --accept --target ~
 $bash 1CCryptoExtensionChrFFSetupLin64.sh --accept --target ~
 $bash ExtraCryptoAPIChromeSetupLin64.sh --accept --target ~
+
+
+
+https://zakupki.gov.ru/epz/main/public/download/downloadDocument.html?id=40356
